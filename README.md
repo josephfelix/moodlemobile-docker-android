@@ -1,6 +1,5 @@
 # Moodle Mobile Android
 
-```
 ## Extra helper command
 If you want to run or build the ionic project in computer but doesn't have Android Studio, Android SDK or Ionic Framework and this computer installed Docker. You can use helper command  
 
